@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author VladGiska
+ *
+ */
+module ShapeCalCulator {
+}
